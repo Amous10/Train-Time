@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#2c1a06;
+    
+    background-image: url(../images/5x7ft-train-track-photo-backdrops-vinyl-mist.jpg);
+}
+#train-table th,
+td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    width: 16.575%;
+}
